@@ -1,0 +1,29 @@
+{
+  "name": "utf-string-length",
+  "version": "1.0.0",
+  "description": "Get accurate character lengths of UTF-8 encoded strings",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Irenej Jeric",
+  "license": "ISC",
+  "prettier": {
+    "printWidth": 90,
+    "trailingComma": "all",
+    "arrowParens": "avoid"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.2",
+    "@typescript-eslint/eslint-plugin": "^5.60.1",
+    "@typescript-eslint/parser": "^5.60.1",
+    "eslint": "^8.43.0",
+    "eslint-config-prettier": "^8.8.0",
+    "jest": "^29.5.0",
+    "prettier": "^2.8.8",
+    "ts-jest": "^29.1.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.3"
+  }
+}
