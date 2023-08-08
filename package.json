@@ -1,5 +1,5 @@
 {
-  "name": "utf-string-length",
+  "name": "emoji-string-length",
   "version": "1.0.0",
   "description": "Get accurate character lengths of UTF-8 encoded strings",
   "main": "index.js",
